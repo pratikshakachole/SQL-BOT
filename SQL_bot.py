@@ -19,7 +19,7 @@ def main():
         """
         <div style="text-align:center;">
         <h1>SQL Assistant 🤖✨</h1>
-        <h3>Your Personal SQL Query Assistant</h3>
+        <h3>Your Personal SQL Query Genie</h3>
         <p> Your Personal Data Wizard! Simply tell Genie what records you need from the database,
           and it'll craft the perfect SQL query for you along with a detailed explanation. 
           Let the magic of technology simplify your data retrieval process! ✨</p>
